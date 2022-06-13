@@ -1,0 +1,4 @@
+코드스페이스에서 push시 403 에러 나는 경우
+설정-개발자 설정->토큰 발급받고
+코드스페이스 터미널에서
+export GITHUB_TOKEN=<PASTE YOUR TOKEN HERE>
